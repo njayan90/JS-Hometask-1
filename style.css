@@ -1,0 +1,103 @@
+body{
+padding: 0px;
+margin: 0px;
+}
+.top{
+
+	color: white;
+           
+	background: darkblue;
+            
+	padding: 20px;
+    margin-bottom: 17px;
+}
+
+.span1
+{
+
+	font-size: 10px;
+
+	font-style: italic;    
+	margin-left: 20px;
+	
+
+}
+img{
+margin-right: 8px;
+}
+.fin-section{
+margin-bottom: 9%;
+}
+.one
+{
+	color: darkblue;
+
+    	font-size: 25px;
+
+        margin-top: -5px;
+		margin-bottom:-10px;
+
+}
+
+.opac{
+
+    font-size: 15px;
+	opacity: 0.5;
+	margin-top: -5px;
+}
+
+.center
+{
+    float: left;
+	width: 80%;
+
+}
+
+.side{
+
+  	width:20%;
+	float: right;
+}
+
+.drop{
+ 
+   width: 80%;
+
+    height: 5%;
+	border: solid 1.2px;
+
+}
+.email{
+	    border: solid 1.2px;
+}
+.button
+{
+   
+ background-color: darkorange;
+
+  color: white;
+ 
+   height: 8%;
+    
+width: 15%;
+    
+
+}
+
+
+.subscribe
+{
+
+    background-color: black;
+
+    color: white;
+
+}
+footer{
+	background-color: darkblue;
+	bottom:0px;
+	width:100%;
+	text-align:center;
+	color:white;
+	position:fixed;
+}
