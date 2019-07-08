@@ -46,7 +46,10 @@ padding: 10px;
 		margin-bottom:-10px;
 
 }
-
+hr{
+	opacity: 0.2;
+	margin-left: 20px;
+}
 .opac{
 
     font-size: 15px;
@@ -104,6 +107,7 @@ width: 15%;
     color: white;
 	border:0px;
 	margin-left: -5px;
+	width: 100px;
 	
 
 }
