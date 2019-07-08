@@ -6,7 +6,7 @@ margin: 0px;
 
 	color: white;
     font-size: 25px;
-	background: darkblue;
+	background-color: rgba(21, 0, 128, 1);
     height: 35px;    
 	padding: 20px;
     margin-bottom: 17px;
@@ -83,7 +83,7 @@ padding: 10px;
 .button
 {
    
- background-color: darkorange;
+ background-color: orangered;
 
   color: white;
 	border:0px;
@@ -103,11 +103,12 @@ width: 15%;
 	height: 38px;
     color: white;
 	border:0px;
+	margin-left: -5px;
 	
 
 }
 footer{
-	background-color: darkblue;
+	background: rgba(21, 0, 128, 1);
 	bottom:0px;
 	width:100%;
 	text-align:center;
